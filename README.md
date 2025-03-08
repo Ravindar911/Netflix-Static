@@ -1,3 +1,3 @@
-### LINK 
+### LIVE LINK 
 
-http://192.168.29.93:54378
+https://netflix-static-clone54.vercel.app/
